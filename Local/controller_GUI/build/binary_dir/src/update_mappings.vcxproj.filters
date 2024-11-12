@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\wcope\Documents\SmartKnob\Local\imgui\controller_GUI\build\CMakeFiles\9d8972786c069d5bd250e60763007de4\update_mappings.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\wcope\Documents\SmartKnob\Local\imgui\glfw\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\wcope\Documents\SmartKnob\Local\imgui\glfw\src\mappings.h.in">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\Users\wcope\Documents\SmartKnob\Local\imgui\glfw\CMake\GenerateMappings.cmake" />
+    <None Include="C:\Users\wcope\Documents\SmartKnob\Local\imgui\controller_GUI\build\binary_dir\src\CMakeFiles\update_mappings" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{212C3246-BE82-3A45-B2F6-04070F42886B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{E278868B-3E6F-3BA1-89A5-11EB445D1E62}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

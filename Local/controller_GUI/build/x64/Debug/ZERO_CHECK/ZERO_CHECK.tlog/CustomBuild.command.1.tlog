@@ -1,0 +1,10 @@
+^C:\USERS\WCOPE\DOCUMENTS\SMARTKNOB\LOCAL\IMGUI\CONTROLLER_GUI\BUILD\CMAKEFILES\A7D7EB3C2B53866C5F86572C4D90F3CA\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/wcope/Documents/SmartKnob/Local/imgui/controller_GUI -BC:/Users/wcope/Documents/SmartKnob/Local/imgui/controller_GUI/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/wcope/Documents/SmartKnob/Local/imgui/controller_GUI/build/imgui_controller_glfw_vulkan.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

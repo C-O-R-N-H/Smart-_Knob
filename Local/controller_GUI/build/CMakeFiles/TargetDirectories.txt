@@ -1,0 +1,6 @@
+C:/Users/wcope/Documents/SmartKnob/Local/imgui/controller_GUI/build/CMakeFiles/contoller_glfw_vulkan.dir
+C:/Users/wcope/Documents/SmartKnob/Local/imgui/controller_GUI/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/wcope/Documents/SmartKnob/Local/imgui/controller_GUI/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/wcope/Documents/SmartKnob/Local/imgui/controller_GUI/build/binary_dir/CMakeFiles/ALL_BUILD.dir
+C:/Users/wcope/Documents/SmartKnob/Local/imgui/controller_GUI/build/binary_dir/src/CMakeFiles/glfw.dir
+C:/Users/wcope/Documents/SmartKnob/Local/imgui/controller_GUI/build/binary_dir/src/CMakeFiles/update_mappings.dir

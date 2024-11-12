@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\wcope\Documents\SmartKnob\Local\imgui\controller_GUI\build\CMakeFiles\a7d7eb3c2b53866c5f86572c4d90f3ca\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{212C3246-BE82-3A45-B2F6-04070F42886B}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

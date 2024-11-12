@@ -1,0 +1,4 @@
+{
+  "enableCMake": true,
+  "sourceDirectory": "imgui\\examples\\example_glfw_vulkan"
+}
